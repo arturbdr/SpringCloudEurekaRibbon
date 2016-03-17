@@ -26,8 +26,8 @@ o teste do Ribbon.
 
 - SpringCloudEurekaRibbonClientSentenca
  
-Esse projeto que fará uso do LoadBalance de aplicação (Ribbon). A diferença desse projeto para o anterior (que chamava diretamente o servidor Eureka) é adicionar uma nova dependência no pom e utilizar a interface LoadBalancerClient ao invés de DiscoveryClient 
+Esse é o projeto que fará uso do LoadBalance de aplicação (Ribbon). A diferença desse projeto para o anterior (que chamava diretamente o servidor Eureka) é adicionar uma nova dependência no pom e utilizar a interface LoadBalancerClient ao invés de DiscoveryClient 
 
 Abaixo segue o macro diagrama dos projetos:
 
-![Modelo de Dados](https://github.com/arturbdr/SpringCloudEurekaRibbon/blob/master/documentacao/img/descricaoProjetos .png "")
+![Modelo de Dados](https://github.com/arturbdr/SpringCloudEurekaRibbon/blob/master/documentacao/img/descricaoProjetos.png "")
