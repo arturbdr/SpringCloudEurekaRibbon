@@ -1,10 +1,10 @@
-# SpringCloudEureka
+# SpringCloudEurekaRibbon
 Nesse repositório estão contidos 4 projetos do tipo SpringCloud:
 
 - SpringCloudEurekaServer
 - SpringCloudEurekaClient-Adjetivo
 - SpringCloudEurekaClient-Pronome
-- SpringCloudEurekaClient-Sentenca
+- SpringCloudEurekaRibbonClientSentenca
  
 --
 
